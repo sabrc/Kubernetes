@@ -1,0 +1,45 @@
+apiVersion: v1
+entries:
+  clarus-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-13T20:41:03.710257518Z"
+    description: A Helm chart for Kubernetes
+    digest: d8c30f55f83a95698aa5d483d6c2ec9f96d1b37350e30c4310e0161720dc16bd
+    name: clarus-chart
+    type: application
+    urls:
+    - charts/clarus-chart-1.2.5.tgz
+    version: 1.2.5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-13T20:36:25.138648253Z"
+    description: A Helm chart for Kubernetes
+    digest: 12ec4948e7e49cb1f5a51d99a86f9c0596465f3808c64e29cfdffc73afcf97e4
+    name: clarus-chart
+    type: application
+    urls:
+    - charts/clarus-chart-1.2.4.tgz
+    version: 1.2.4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-13T20:34:31.119200816Z"
+    description: A Helm chart for Kubernetes
+    digest: f8e4c7c175ff0dcea16e2581a3fb692119cb4f685198424b7dfe20402b4e4f2e
+    name: clarus-chart
+    type: application
+    urls:
+    - charts/clarus-chart-1.2.3.tgz
+    version: 1.2.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-13T20:30:11.26221162Z"
+    description: A Helm chart for Kubernetes
+    digest: 2f75bad56689180a07e03c8708e0bc925e94c6729621642287dbc894fc5f0a06
+    name: clarus-chart
+    type: application
+    urls:
+    - charts/clarus-chart-0.2.0.tgz
+    version: 0.2.0
+generated: "2023-04-13T20:41:04Z"
+serverInfo: {}
